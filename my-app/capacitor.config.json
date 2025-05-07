@@ -1,0 +1,23 @@
+{
+  "appId": "com.example.app",
+  "appName": "agrorealliance",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true
+    }
+  },
+  "server": {
+    "url": "https://agrorealliance.com/views/portal.php",
+    "cleartext": true
+  },
+  "plugins": {
+  "SplashScreen": {
+    "launchAutoHide": true,
+    "androidScaleType": "CENTER_CROP",
+    "showDuration": 3000
+  }
+}
+
+  
+}
